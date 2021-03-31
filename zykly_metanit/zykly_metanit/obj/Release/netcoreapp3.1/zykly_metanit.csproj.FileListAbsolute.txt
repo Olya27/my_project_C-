@@ -1,0 +1,12 @@
+C:\Users\Оля\source\repos\zykly_metanit\zykly_metanit\bin\Release\netcoreapp3.1\zykly_metanit.exe
+C:\Users\Оля\source\repos\zykly_metanit\zykly_metanit\bin\Release\netcoreapp3.1\zykly_metanit.deps.json
+C:\Users\Оля\source\repos\zykly_metanit\zykly_metanit\bin\Release\netcoreapp3.1\zykly_metanit.runtimeconfig.json
+C:\Users\Оля\source\repos\zykly_metanit\zykly_metanit\bin\Release\netcoreapp3.1\zykly_metanit.runtimeconfig.dev.json
+C:\Users\Оля\source\repos\zykly_metanit\zykly_metanit\bin\Release\netcoreapp3.1\zykly_metanit.dll
+C:\Users\Оля\source\repos\zykly_metanit\zykly_metanit\bin\Release\netcoreapp3.1\zykly_metanit.pdb
+C:\Users\Оля\source\repos\zykly_metanit\zykly_metanit\obj\Release\netcoreapp3.1\zykly_metanit.AssemblyInfoInputs.cache
+C:\Users\Оля\source\repos\zykly_metanit\zykly_metanit\obj\Release\netcoreapp3.1\zykly_metanit.AssemblyInfo.cs
+C:\Users\Оля\source\repos\zykly_metanit\zykly_metanit\obj\Release\netcoreapp3.1\zykly_metanit.csproj.CoreCompileInputs.cache
+C:\Users\Оля\source\repos\zykly_metanit\zykly_metanit\obj\Release\netcoreapp3.1\zykly_metanit.dll
+C:\Users\Оля\source\repos\zykly_metanit\zykly_metanit\obj\Release\netcoreapp3.1\zykly_metanit.pdb
+C:\Users\Оля\source\repos\zykly_metanit\zykly_metanit\obj\Release\netcoreapp3.1\zykly_metanit.genruntimeconfig.cache
