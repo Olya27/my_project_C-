@@ -1,0 +1,13 @@
+C:\Users\Оля\source\repos\цикли_златопольський\цикли_златопольський\bin\Debug\netcoreapp3.1\цикли_златопольський.exe
+C:\Users\Оля\source\repos\цикли_златопольський\цикли_златопольський\bin\Debug\netcoreapp3.1\цикли_златопольський.deps.json
+C:\Users\Оля\source\repos\цикли_златопольський\цикли_златопольський\bin\Debug\netcoreapp3.1\цикли_златопольський.runtimeconfig.json
+C:\Users\Оля\source\repos\цикли_златопольський\цикли_златопольський\bin\Debug\netcoreapp3.1\цикли_златопольський.runtimeconfig.dev.json
+C:\Users\Оля\source\repos\цикли_златопольський\цикли_златопольський\bin\Debug\netcoreapp3.1\цикли_златопольський.dll
+C:\Users\Оля\source\repos\цикли_златопольський\цикли_златопольський\bin\Debug\netcoreapp3.1\цикли_златопольський.pdb
+C:\Users\Оля\source\repos\цикли_златопольський\цикли_златопольський\obj\Debug\netcoreapp3.1\цикли_златопольський.csprojAssemblyReference.cache
+C:\Users\Оля\source\repos\цикли_златопольський\цикли_златопольський\obj\Debug\netcoreapp3.1\цикли_златопольський.AssemblyInfoInputs.cache
+C:\Users\Оля\source\repos\цикли_златопольський\цикли_златопольський\obj\Debug\netcoreapp3.1\цикли_златопольський.AssemblyInfo.cs
+C:\Users\Оля\source\repos\цикли_златопольський\цикли_златопольський\obj\Debug\netcoreapp3.1\цикли_златопольський.csproj.CoreCompileInputs.cache
+C:\Users\Оля\source\repos\цикли_златопольський\цикли_златопольський\obj\Debug\netcoreapp3.1\цикли_златопольський.dll
+C:\Users\Оля\source\repos\цикли_златопольський\цикли_златопольський\obj\Debug\netcoreapp3.1\цикли_златопольський.pdb
+C:\Users\Оля\source\repos\цикли_златопольський\цикли_златопольський\obj\Debug\netcoreapp3.1\цикли_златопольський.genruntimeconfig.cache
