@@ -47,12 +47,7 @@ namespace Class
         }
 
 
-        public class Cat
-        {
-            readonly string Name;
-            static readonly double MaxEnergy;
-
-        }
+  
 
         public void PrintInfo()
         {
