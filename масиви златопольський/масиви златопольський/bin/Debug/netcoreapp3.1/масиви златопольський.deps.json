@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "масиви златопольський/1.0.0": {
+        "runtime": {
+          "масиви златопольський.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "масиви златопольський/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

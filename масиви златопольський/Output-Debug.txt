@@ -1,0 +1,10 @@
+﻿'масиви златопольський.exe' (CoreCLR: DefaultDomain): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.11\System.Private.CoreLib.dll'. 
+'масиви златопольський.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Оля\source\repos\масиви златопольський\масиви златопольський\bin\Release\netcoreapp3.1\масиви златопольський.dll'. Symbols loaded.
+'масиви златопольський.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.11\System.Runtime.dll'. 
+'масиви златопольський.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.11\System.Linq.dll'. 
+'масиви златопольський.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.11\System.Console.dll'. 
+'масиви златопольський.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.11\System.Collections.dll'. 
+'масиви златопольський.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.11\System.Runtime.Extensions.dll'. 
+'масиви златопольський.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.11\System.Threading.dll'. 
+'масиви златопольський.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.11\System.Text.Encoding.Extensions.dll'. 
+The program '[4956] масиви златопольський.exe' has exited with code 0 (0x0).
