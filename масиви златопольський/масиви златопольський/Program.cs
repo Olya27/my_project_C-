@@ -1,4 +1,5 @@
-﻿using System;
+Оля Боднарук, [30.05.21 18:09]
+using System;
 using System.Linq;
 
 namespace масиви_златопольський
@@ -34,7 +35,7 @@ namespace масиви_златопольський
                 Console.WriteLine("Сума більша 0");
             }
         }
-        public static void task2_Sasha()
+        public static void task_2()
         {
             int[] aaa = { 1, 3, 22, -4, -10, 3 };
             int summ = aaa.Sum(); 
@@ -60,7 +61,7 @@ namespace масиви_златопольський
             }
         }
 
-        public static void task3_Sasha()
+        public static void task3()
         {
             //11.39
             int[] kkk = { 5, 2, 7, 6, 4, 5, 1, 3, 9, 8, 10, 12, 15, 13, 6 };
@@ -86,7 +87,7 @@ namespace масиви_златопольський
             Console.WriteLine($"сума невідємних елементів {sum11}");
         }
 
-        public static void task4_Sasha()
+        public static void task_4()
         {
             //11.63
             int[] kkk1 = { 5, 2, -7, 6, -4, 5, 1, 3, -9, 8, 10, -12, -15, 13, 6 };
@@ -94,7 +95,7 @@ namespace масиви_златопольський
             Console.WriteLine($"сума невідємних елементів {res}");
         }
 
-        public static void task5_Sasha()
+        public static void task5()
         {
             //11.87
             int[] kkk1 = { 5, 2, -7, 6, -4, 5, 1, 3, -9, 8, 10, -12, -15, 13, 6, 6, 6, 6, 6, 6, 6, 6, };
@@ -103,7 +104,7 @@ namespace масиви_златопольський
             Console.WriteLine($"man {man},woman {woman}");
         }
 
-        public static void task6_Sasha()
+        public static void task6()
         {
             //11.111
             int[] kkk1 = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25 };
@@ -115,7 +116,7 @@ namespace масиви_златопольський
         static void Main(string[] args)
         {
 
-            tasks.task5_Sasha();
+      
             
 
             
